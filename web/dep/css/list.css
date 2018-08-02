@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+    height: 35px;
+    width: 96%;
+    margin-left: 2%;
+    padding-left: 10px;
+    line-height: 35px;
+    border: 1px solid lightskyblue;
+    margin-top: 5px;
+}
